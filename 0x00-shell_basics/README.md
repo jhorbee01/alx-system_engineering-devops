@@ -1,1 +1,1 @@
-list long format
+list hidden files
